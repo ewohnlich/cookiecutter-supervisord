@@ -1,0 +1,12 @@
+{
+    "target": "supervisor",
+    "username": "",
+    "password": "",
+    "python": "",
+    "server": "",
+    "port": "",
+    "zeo_name": "",
+    "client1_name": "",
+    "client2_name": "",
+    "instance_home": ""
+}
