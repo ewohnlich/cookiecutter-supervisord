@@ -6,7 +6,7 @@
     "server": "",
     "clients": 2,
     "port": "",
-    "instances": [],
+    "instances": "",
     "instances_home": "",
     "supervisor_home": ""
 }
