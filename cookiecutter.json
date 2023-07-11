@@ -4,10 +4,9 @@
     "password": "",
     "python": "",
     "server": "",
+    "clients": 2,
     "port": "",
-    "zeo_name": "",
-    "client1_name": "",
-    "client2_name": "",
-    "instance_home": "",
+    "instances": [],
+    "instances_home": "",
     "supervisor_home": ""
 }
