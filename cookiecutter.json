@@ -1,5 +1,6 @@
 {
     "target": "supervisor",
+    "subtarget": "",
     "username": "",
     "password": "",
     "python": "",
