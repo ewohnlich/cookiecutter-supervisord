@@ -3,9 +3,42 @@
   "username": "",
   "password": "",
   "venvs": {
-    "venv": {
+    "portals": {
       "python": "",
-      "instances": [],
+      "instances": [
+        "alpha",
+        "beta",
+        "gamma",
+        "delta",
+        "epsilon",
+        "zeta",
+        "eta",
+        "theta",
+        "iota",
+        "kappa"
+      ],
+      "instances_home": ""
+    },
+    "dcpintra": {
+      "python": "",
+      "instances": [
+        "dcpintra"
+      ],
+      "instances_home": ""
+    },
+    "pubs": {
+      "python": "",
+      "instances": [
+        "atbc",
+        "biolincc",
+        "cisnet",
+        "dceg",
+        "dcp",
+        "hdrp",
+        "nccor",
+        "seer",
+        "srp",
+      ],
       "instances_home": ""
     }
   },
