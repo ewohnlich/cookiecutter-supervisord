@@ -1,13 +1,18 @@
 {
-    "target": "supervisor",
-    "subtarget": "",
-    "username": "",
-    "password": "",
-    "python": "",
-    "server": "",
-    "clients": 2,
-    "port": "",
-    "instances": "",
-    "instances_home": "",
-    "supervisor_home": ""
+  "target": "supervisor",
+  "username": "",
+  "password": "",
+  "venvs": {
+    "venv": {
+      "python": "",
+      "instances": {
+        "instance": ""
+      },
+      "instances_home": ""
+    }
+  },
+  "server": "",
+  "clients": 2,
+  "port": "",
+  "supervisor_home": ""
 }
