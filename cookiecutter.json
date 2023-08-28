@@ -5,9 +5,7 @@
   "venvs": {
     "venv": {
       "python": "",
-      "instances": {
-        "instance": ""
-      },
+        "instances": []
       "instances_home": ""
     }
   },
