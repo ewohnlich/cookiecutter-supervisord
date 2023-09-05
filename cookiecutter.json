@@ -29,15 +29,16 @@
     "pubs": {
       "python": "",
       "instances": [
-        "atbc",
-        "biolincc",
-        "cisnet",
-        "dceg",
-        "dcp",
-        "hdrp",
-        "nccor",
-        "seer",
-        "srp"
+        "pubs_atbc",
+        "pubs_biolincc",
+        "pubs_cisnet",
+        "pubs_dceg",
+        "pubs_dcp",
+        "pubs_hdrp",
+        "pubs_internal",
+        "pubs_nccor",
+        "pubs_seer",
+        "pubs_srp"
       ],
       "instances_home": ""
     }
