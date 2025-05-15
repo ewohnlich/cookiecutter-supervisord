@@ -5,6 +5,7 @@
   "venvs": {
     "portals_uv": {
       "python": "",
+      "prefix": "",
       "instances": [
         "alpha",
         "beta",
@@ -21,6 +22,7 @@
     },
     "portals": {
       "python": "",
+      "prefix": "",
       "instances": [
         "alpha",
         "beta",
@@ -37,6 +39,7 @@
     },
     "dcpintra": {
       "python": "",
+      "prefix": "",
       "instances": [
         "dcpintra"
       ],
@@ -44,6 +47,7 @@
     },
     "pubs": {
       "python": "",
+      "prefix": "",
       "instances": [
         "pubs_atbc",
         "pubs_biolincc",
